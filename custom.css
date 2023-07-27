@@ -45,5 +45,10 @@ h3{
 
 .about-bock{
 	background-image: url(https://www.bock-associates.com/images/headerLogo.png);
-	width: 100%;
+	width: 200%;
+	text-align: center;
+}
+
+ul{
+	padding-left: 50px;
 }

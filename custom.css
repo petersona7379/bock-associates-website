@@ -6,6 +6,10 @@ body {
 h1, h2, h4, h5, h6 {
 	color: black;
 	}
+
+h3{
+		color: white;
+	}
 	
 .feature {
 	background-color: #661023;
@@ -39,6 +43,3 @@ h1, h2, h4, h5, h6 {
 	text-align: center;
 	}
 
-h3{
-	color: white;
-}
